@@ -40,29 +40,18 @@ Objetivo: aprender a manejar valores cambiantes y actualizar la interfaz.
 
 🧩 Ejercicios
 
-Crea un contador con botones + y -.
-
-Muestra un mensaje distinto según el valor del contador (por ejemplo, “Muy alto” si es >10).
-
-Crea un input que actualice un texto en tiempo real.
-
-Crea un campo de texto que diga “Hola, [nombre]” a medida que escribes.
-
-Crea un botón que cambie el color de fondo al hacer clic.
-
-Crea un interruptor (ON/OFF) con un botón que cambie su estado.
-
-Crea un componente que muestre “Visibilidad: visible/oculto” y un botón que alterne.
-
-Crea un formulario con un input y un botón que agregue elementos a una lista.
-
-Crea un input que cuente cuántos caracteres lleva escritos.
-
-Crea un componente que muestre una imagen distinta cada vez que haces clic.
-
-Crea un contador con paso variable (un input define de cuánto en cuánto sube).
-
-Crea un botón que aumente el número al mantenerlo presionado (onMouseDown/onMouseUp).
+1. Crea un contador con botones + y -.
+2. Muestra un mensaje distinto según el valor del contador (por ejemplo, “Muy alto” si es >10).
+3. Crea un input que actualice un texto en tiempo real.
+4. Crea un campo de texto que diga “Hola, [nombre]” a medida que escribes.
+5. Crea un botón que cambie el color de fondo al hacer clic.
+6. Crea un interruptor (ON/OFF) con un botón que cambie su estado.
+7. Crea un componente que muestre “Visibilidad: visible/oculto” y un botón que alterne.
+8. Crea un formulario con un input y un botón que agregue elementos a una lista.
+9. Crea un input que cuente cuántos caracteres lleva escritos.
+10. Crea un componente que muestre una imagen distinta cada vez que haces clic.
+11. Crea un contador con paso variable (un input define de cuánto en cuánto sube).
+12. Crea un botón que aumente el número al mantenerlo presionado (onMouseDown/onMouseUp).
 
 🔹 MÓDULO 0.3 – Listas y Renderizado Condicional
 
@@ -70,29 +59,18 @@ Objetivo: recorrer arrays con .map() y mostrar u ocultar contenido según condic
 
 🧩 Ejercicios
 
-Crea una lista de nombres y muéstrala con .map().
-
-Muestra una lista de productos con nombre y precio.
-
-Crea una lista de usuarios y muestra solo los que tienen activo: true.
-
-Crea un botón “Mostrar/Ocultar lista”.
-
-Muestra un mensaje “No hay elementos” si la lista está vacía.
-
-Crea un componente que reciba una lista por props y la renderice.
-
-Crea un listado de películas y permite filtrarlas por género.
-
-Crea una lista con un botón que borre un elemento por índice.
-
-Crea una lista numerada (<ol>) que muestre posiciones (1°, 2°, 3°…).
-
-Crea una lista de tareas con checkbox para marcar como completadas.
-
-Crea una lista de compras con total al final.
-
-Crea una lista de frases y un botón que muestre una aleatoria.
+1. Crea una lista de nombres y muéstrala con .map().
+2. Muestra una lista de productos con nombre y precio.
+3. Crea una lista de usuarios y muestra solo los que tienen activo: true.
+4. Crea un botón “Mostrar/Ocultar lista”.
+5. Muestra un mensaje “No hay elementos” si la lista está vacía.
+6. Crea un componente que reciba una lista por props y la renderice.
+7. Crea un listado de películas y permite filtrarlas por género.
+8. Crea una lista con un botón que borre un elemento por índice.
+9. Crea una lista numerada (<ol>) que muestre posiciones (1°, 2°, 3°…).
+10. Crea una lista de tareas con checkbox para marcar como completadas.
+11. Crea una lista de compras con total al final.
+12. Crea una lista de frases y un botón que muestre una aleatoria.
 
 🔹 MÓDULO 0.4 – Efectos (useEffect)
 
